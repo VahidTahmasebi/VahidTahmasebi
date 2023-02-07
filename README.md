@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vahid
 #### A passionate frontend developer from Iran
-![A passionate frontend developer from Iran](<a href="https://uupload.ir/view/ezgif.com-resize_qdca.gif" target="_blank"><img src="https://s2.uupload.ir/files/ezgif.com-resize_qdca_thumb.gif" border="0" alt="آپلود عکس" /></a>)
+![A passionate frontend developer from Iran](https://s2.uupload.ir/files/ezgif.com-resize_qdca.gif)
 
 
 Skills: REACT / JS / HTML / CSS
