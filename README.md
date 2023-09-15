@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,css,html,webpack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,sass,tailwind,css,html,webpack" />
 </div>
 
 ###
