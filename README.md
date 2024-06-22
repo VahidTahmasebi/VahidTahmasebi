@@ -14,13 +14,7 @@
 ###
 
 <div align="left">
-  <img height="300" src="https://camo.githubusercontent.com/ff90a6aab328f945a675752a721c8113d6c5c00a6269692a88590778bdc1ffc5/68747470733a2f2f73322e7575706c6f61642e69722f66696c65732f657a6769662e636f6d2d726573697a655f716463612e676966"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,sass,tailwind,materialui,css,html,webpack,jest,mongodb,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,sass,tailwind,materialui,css,html,webpack,cypress,jest,mongodb,postman" />
 </div>
 
 ###
